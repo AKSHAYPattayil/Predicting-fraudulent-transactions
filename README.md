@@ -6,7 +6,10 @@ Develop a model for predicting fraudulent transactions for a financial company a
 
 ![naipo-de-k24rOBJ2D_0-unsplash](https://user-images.githubusercontent.com/114215128/218633510-655952f5-3d46-4de7-8328-f9e06519fe43.jpg)
                                                                                                      Photo by Jeremy Bishop on Unsplash
-                                                                                                      
+ 
+## Data Source
+https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV
+
 ## Data Dictionary
 
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
